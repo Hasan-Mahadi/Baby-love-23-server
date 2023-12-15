@@ -1,215 +1,244 @@
 [
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a1",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "1",
         "rating": {
-            "number": 4.5,
+            "number": 3.0,
             "badge": "Excellent"
         },
         "total_view": 488,
         "title": "Baby Clothing",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/flat-lay-baby-clothes-with-photo-camera_23-2148251497.jpg?w=900&t=st=1701097743~exp=1701098343~hmac=1081b06e7e4d81f8f36a024809c95978b4103aa111db13cdd369d324cf896d98",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a2",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "1",
         "rating": {
-            "number": 4.5,
+            "number": 5.0,
             "badge": "Excellent"
         },
         "total_view": 488,
         "title": "Baby Clothing",
-        "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "price": "25",
+        "img": "https://img.freepik.com/free-photo/baby-concept-with-bib-shoes-clothesline_23-2147665758.jpg?w=996&t=st=1701098300~exp=1701098900~hmac=98da1aa9274fcdf84a331bc43bab3bffd20a4652e58b055710fbeca456a78fce",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a3",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "1",
         "rating": {
-            "number": 4.5,
+            "number": 3.3,
             "badge": "Excellent"
         },
         "total_view": 488,
         "title": "Baby Clothing",
-        "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "price": "15",
+        "img": " https://img.freepik.com/premium-photo/newborn-baby-clothing-rabbit-beanbag-turquoise_101906-234.jpg?w=1060 ",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a4",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "1",
         "rating": {
-            "number": 4.5,
+            "number": 4.4,
             "badge": "Excellent"
         },
         "total_view": 488,
         "title": "Baby Clothing",
-        "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "price": "35",
+        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1701098606~exp=1701099206~hmac=99f8a2ed4ffea22622c079ed151af8c94b5bcb8c53b59bac2a6d3890cf3f9e08",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a5",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "1",
         "rating": {
-            "number": 4.5,
+            "number": 3.5,
             "badge": "Excellent"
         },
         "total_view": 488,
         "title": "Baby Clothing",
-        "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "price": "25",
+        "img": "https://img.freepik.com/premium-photo/set-baby-rompers-hat-socks-knitted-jumper-white-bed-gender-neutral-baby-clothes-accessories-flat-lay-top-view_479776-4212.jpg?w=996",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a6",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "1",
         "rating": {
-            "number": 4.5,
+            "number": 2.5,
             "badge": "Excellent"
         },
         "total_view": 488,
         "title": "Baby Clothing",
-        "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "price": "50",
+        "img": "https://img.freepik.com/free-photo/children-s-wear_93675-130784.jpg?w=996&t=st=1701097776~exp=1701098376~hmac=0c737a5548d1ba30cec8be5e31b6bf9ab65943583097e75d103ae80641f2c79b",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b1",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "2",
         "rating": {
-            "number": 4.5,
+            "number": 4.1,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Meals",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/flat-lay-baby-food-blue-background_23-2148580401.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b2",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "2",
         "rating": {
-            "number": 4.5,
+            "number": 3.5,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Meals",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/high-angle-bowl-with-baby-food_23-2148580406.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b3",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "2",
         "rating": {
-            "number": 4.5,
+            "number": 2.5,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Meals",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/view-baby-food-bowls_23-2148580378.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c1",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "3",
         "rating": {
-            "number": 4.5,
+            "number": 3.5,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Sleeping",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/newborn-infant-little-likeable-pretty-baby-boy-sleeping-little-brown-sofa-blue-pijamas-surrounded-by-plant-toy-bears_179666-135.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6c2",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "3",
         "rating": {
-            "number": 4.5,
+            "number": 4.1,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Sleeping",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/cute-baby-nursing-pillow_23-2150276286.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d1",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "4",
+        "rating": {
+            "number": 4.2,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Baby Bathing",
+        "price": "45",
+        "img": "https://img.freepik.com/free-photo/beauty-product-still-life_23-2147817672.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
+        "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d2",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "4",
+        "rating": {
+            "number": 4.4,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Baby Bathing",
+        "price": "45",
+        "img": "https://img.freepik.com/free-photo/top-view-beauty-concept_23-2147817622.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
+        "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d3",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "4",
+        "rating": {
+            "number": 5.0,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Baby Bathing",
+        "price": "45",
+        "img": "https://img.freepik.com/free-photo/border-made-with-cosmetics-products-blue-background_23-2147818113.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
+        "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6d4",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -220,72 +249,64 @@
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Bathing",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/personal-hygiene-products-copy-space_23-2148439099.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e1",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "4",
+        "category_id": "5",
         "rating": {
-            "number": 4.5,
+            "number": 4.1,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Playtime",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/smiling-mom-with-cute-baby-boy-outdoors_624325-4194.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e2",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "4",
+        "category_id": "5",
         "rating": {
-            "number": 4.5,
+            "number": 4.4,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Playtime",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/little-girl-playing-with-toy-blocks_155003-29828.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e3",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "4",
+        "category_id": "5",
         "rating": {
-            "number": 4.5,
+            "number": 4.1,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Playtime",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/front-view-cute-baby-brother-sister_23-2148651279.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f1",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
@@ -296,146 +317,77 @@
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Playtime",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/two-adorable-babies-playing-with-balls-bowling-pin-sitting-floor-kindergarten_839833-9260.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e6",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "5",
         "rating": {
-            "number": 4.5,
+            "number": 4.0,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Playtime",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
-        "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
-    },
-      {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
-        "category_id": "5",
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
-        "total_view": 488,
-        "title": "Baby Clothing",
-        "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-photo/cute-baby-with-toys_624325-3269.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f4",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "6",
         "rating": {
-            "number": 4.5,
+            "number": 3.4,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Stroller",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-psd/baby-pram-design_1310-675.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
-        "category_id": "5",
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
-        "total_view": 488,
-        "title": "Baby Clothing",
-        "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
-        "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
-    },
-    {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6e8",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "6",
         "rating": {
-            "number": 4.5,
+            "number": 3.5,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Stroller",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-psd/buggy-mockup_1310-859.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     },
     {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
-        "others_info": {
-            "is_todays_pick": false,
-            "is_trending": true
-        },
-        "category_id": "5",
-        "rating": {
-            "number": 4.5,
-            "badge": "Excellent"
-        },
-        "total_view": 488,
-        "title": "Baby Clothing",
-        "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
-        "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
-    },
-    {
-        "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6f8",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
         "category_id": "6",
         "rating": {
-            "number": 4.5,
+            "number": 2.5,
             "badge": "Excellent"
         },
         "total_view": 488,
-        "title": "Baby Clothing",
+        "title": "Baby Stroller",
         "price": "45",
-    
-        "img": "https://img.freepik.com/free-photo/baby-clothes_1220-4293.jpg?w=996&t=st=1700841681~exp=1700842281~hmac=ecb79051b70fea64be041bafc38f91fb0818f824126f90f595da9f5c03bafdce",
-      
+        "img": "https://img.freepik.com/free-psd/baby-pram-design_1310-676.jpg?size=626&ext=jpg&uid=R104361349&ga=GA1.1.1969347999.1690546895&semt=ais",
         "details": "  Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa dignissimos nesciunt "
     }
 ]
-
-
